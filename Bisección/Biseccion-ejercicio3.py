@@ -1,5 +1,5 @@
 # utilizando el método de bisección para encontrar la raíz de la función
-# f(x) = x^3 - 6x^2 + 11x - 6 en el intervalo[0,3]
+# f(x) = x^3 - 6x^2 + 11x - 6 en el intervalo[0,-1]
 
 import math
 
